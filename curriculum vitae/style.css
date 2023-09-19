@@ -1,0 +1,190 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    width: 1100px;
+    height: 1500px;
+    background-color:seashell;
+    overflow: visible;
+    position: relative;
+
+    
+}
+.perfil{
+    position: absolute;
+    top:400px; 
+    left: 510px; 
+    font-size: 20px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    
+
+}
+
+.experiencia{
+    position: absolute;
+    top:540px; 
+    left: 510px; 
+    font-size: 20px;
+    color: black;
+    font-family: "verdana", sans-serif;
+
+}
+.experiencia h3{
+    font-size: 18px;
+	padding-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+
+.formacion{
+    position: absolute;
+    top:1300px; 
+    left: 510px; 
+    font-size: 15px;
+    color: black;
+    font-family: "verdana", sans-serif;
+}
+.lista li{
+    padding-top: 5px;
+	font-size: 23px;
+	padding-bottom: 2px;
+	margin-left: 20px;
+	line-height: 20px;
+    line-height: 1.1;
+}
+.lista ul{
+    padding-left: 20px;
+}
+
+.rectangulo-lateral {
+    width: 480px;
+    height: 1500px;
+    background-color:whitesmoke;
+}
+
+.Contacto{
+    position: absolute;
+    top:400px; /* Ajusta la posición vertical según sea necesario */
+    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    font-size: 25px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    padding-top: 10px;/*espacio entre lineas*/
+    padding-bottom: 2px;
+}
+
+.Idiomas{
+
+    position: absolute;
+    top:610px; /* Ajusta la posición vertical según sea necesario */
+    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    font-size: 23px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.Aptitudes{
+
+    position: absolute;
+    top:780px; /* Ajusta la posición vertical según sea necesario */
+    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    font-size: 25px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    
+}
+
+.Habilidades{
+
+    position: absolute;
+    top:1020px; /* Ajusta la posición vertical según sea necesario */
+    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    font-size: 25px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.Intereses{
+    position: absolute;
+    top:1240px; /* Ajusta la posición vertical según sea necesario */
+    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    font-size: 25px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    
+
+}
+
+.formacion{
+    position: absolute;
+    top:1240px; /* Ajusta la posición vertical según sea necesario */
+    left: 500px; /* Ajusta la posición horizontal según sea necesario */
+    font-size: 23px;
+    color: black;
+    font-family: "verdana", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 2px;
+
+}
+
+
+.rectangulo-superior {
+    width: 1100px;
+    height: 380px;
+    background-color: dimgray;
+}
+.imagen {
+    position: absolute;
+    top: 30px;
+    left:128px;
+    width: 250px; /* Ancho de la imagen */
+    height: 250px; /* Alto de la imagen */
+    background-image:  url('imagenes/señor.jpeg');/* Ruta de tu imagen */
+    
+    background-size: cover; /* Ajustamos el tamaño de la imagen */
+    border-radius: 50%;
+}
+.titulo {
+    position: absolute;
+    top: 120px; /*donde va la letra*/
+    left: 600px; /*la distancia uwu*/
+    font-size: 60px; /* Tamaño de letra */
+    color: white; /* Color del texto */
+    font-family: "verdana", sans-serif;/*tipo de letra */
+}
+.sub {
+    position: absolute;
+    top: 200px; 
+    left: 580px; 
+    font-size: 30px;
+    color: silver;
+}
+.perfil p{
+    padding-top: 20px;
+	line-height: 20px;
+	font-size: 20px;
+    line-height: 1.3;
+}
+
+.perfil span{
+    color:whitesmoke
+}
+
+
