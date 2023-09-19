@@ -73,20 +73,20 @@
 
 .Contacto{
     position: absolute;
-    top:400px; /* Ajusta la posición vertical según sea necesario */
-    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    top:400px; 
+    left: 100px; 
     font-size: 25px;
     color: black;
     font-family: "verdana", sans-serif;
-    padding-top: 10px;/*espacio entre lineas*/
+    padding-top: 10px;
     padding-bottom: 2px;
 }
 
 .Idiomas{
 
     position: absolute;
-    top:610px; /* Ajusta la posición vertical según sea necesario */
-    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    top:610px; 
+    left: 100px; 
     font-size: 23px;
     color: black;
     font-family: "verdana", sans-serif;
@@ -97,8 +97,8 @@
 .Aptitudes{
 
     position: absolute;
-    top:780px; /* Ajusta la posición vertical según sea necesario */
-    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    top:780px;
+    left: 100px; 
     font-size: 25px;
     color: black;
     font-family: "verdana", sans-serif;
@@ -110,8 +110,8 @@
 .Habilidades{
 
     position: absolute;
-    top:1020px; /* Ajusta la posición vertical según sea necesario */
-    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    top:1020px; 
+    left: 100px; 
     font-size: 25px;
     color: black;
     font-family: "verdana", sans-serif;
@@ -121,8 +121,8 @@
 
 .Intereses{
     position: absolute;
-    top:1240px; /* Ajusta la posición vertical según sea necesario */
-    left: 100px; /* Ajusta la posición horizontal según sea necesario */
+    top:1240px; 
+    left: 100px;
     font-size: 25px;
     color: black;
     font-family: "verdana", sans-serif;
@@ -134,8 +134,8 @@
 
 .formacion{
     position: absolute;
-    top:1240px; /* Ajusta la posición vertical según sea necesario */
-    left: 500px; /* Ajusta la posición horizontal según sea necesario */
+    top:1240px;
+    left: 500px; 
     font-size: 23px;
     color: black;
     font-family: "verdana", sans-serif;
@@ -154,20 +154,20 @@
     position: absolute;
     top: 30px;
     left:128px;
-    width: 250px; /* Ancho de la imagen */
-    height: 250px; /* Alto de la imagen */
-    background-image:  url('imagenes/señor.jpeg');/* Ruta de tu imagen */
+    width: 250px; 
+    height: 250px; 
+    background-image:  url('imagenes/señor.jpeg');
     
-    background-size: cover; /* Ajustamos el tamaño de la imagen */
+    background-size: cover;
     border-radius: 50%;
 }
 .titulo {
     position: absolute;
-    top: 120px; /*donde va la letra*/
-    left: 600px; /*la distancia uwu*/
-    font-size: 60px; /* Tamaño de letra */
-    color: white; /* Color del texto */
-    font-family: "verdana", sans-serif;/*tipo de letra */
+    top: 120px; 
+    left: 600px; 
+    font-size: 60px; 
+    color: white; 
+    font-family: "verdana", sans-serif;
 }
 .sub {
     position: absolute;
